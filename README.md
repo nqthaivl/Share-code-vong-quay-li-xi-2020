@@ -1,8 +1,7 @@
 # Share code vòng quay lì xì 2020
 Tết thấy vui vui nên ngẫu hứng viết một con web tặng mọi người.
 Mình dùng `Winwheel.js` để làm vòng quay và `sweetalert.js` để làm popup 
-## Demo
-Anh em xem demo ở đây: [Vòng quay lì xì](https://sharescript.net/demo/vong-quay-li-xi-2020-by-GrouSrlpPrsc/)
+## Hướng Dẫn
 
 Lưu ý pass mở khoá vòng quay là "mycode"
 ## Ý tưởng và chức năng
